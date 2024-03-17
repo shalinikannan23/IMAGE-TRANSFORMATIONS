@@ -224,21 +224,21 @@ show_image(cropped_image)
 
 ### (i) Image Translation
 
-<img height=15% width=48% src="https://github.com/shalinikannan23/IMAGE-TRANSFORMATIONS/assets/118656529/29c1dde6-653d-46a0-b427-a2eb49039165">
+<img height=50% width=30% src="https://github.com/shalinikannan23/IMAGE-TRANSFORMATIONS/assets/118656529/29c1dde6-653d-46a0-b427-a2eb49039165">
 
-<img height=15% width=48% src="https://github.com/shalinikannan23/IMAGE-TRANSFORMATIONS/assets/118656529/7c3ed51e-a382-482c-9f6b-f4c0ae5e6240">
+<img height=50% width=30% src="https://github.com/shalinikannan23/IMAGE-TRANSFORMATIONS/assets/118656529/7c3ed51e-a382-482c-9f6b-f4c0ae5e6240">
 
 
 
 
 ### (ii) Image Scaling
-<img height=15% width=48% src="https://github.com/shalinikannan23/IMAGE-TRANSFORMATIONS/assets/118656529/30e55c7b-3f2a-49d1-b59c-8182b7a6eda1">
-<img height=15% width=48% src="https://github.com/shalinikannan23/IMAGE-TRANSFORMATIONS/assets/118656529/82fa986d-8131-43c2-ac88-c4a2b7aeac4c">
+<img height=50% width=30% src="https://github.com/shalinikannan23/IMAGE-TRANSFORMATIONS/assets/118656529/30e55c7b-3f2a-49d1-b59c-8182b7a6eda1">
+<img height=50% width=30% src="https://github.com/shalinikannan23/IMAGE-TRANSFORMATIONS/assets/118656529/82fa986d-8131-43c2-ac88-c4a2b7aeac4c">
 
 
 ### (iii) Image shearing
 
-<img height=15% width=48% src="!https://github.com/shalinikannan23/IMAGE-TRANSFORMATIONS/assets/118656529/05ba513b-7c51-4ba4-a54e-c8c4ffaaab9b">
+<img height=15% width=48% src="https://github.com/shalinikannan23/IMAGE-TRANSFORMATIONS/assets/118656529/05ba513b-7c51-4ba4-a54e-c8c4ffaaab9b">
 <img height=15% width=48% src="https://github.com/shalinikannan23/IMAGE-TRANSFORMATIONS/assets/118656529/112f8ce9-b3af-45e8-b060-46ee3493fc51">
 
 
@@ -246,28 +246,26 @@ show_image(cropped_image)
 
 #### Reflecting Horizontally
 
-<img height=15% width=48% src="https://github.com/shalinikannan23/IMAGE-TRANSFORMATIONS/assets/118656529/6d477f87-b263-446a-8ea9-3db3f724edea">
-<img height=15% width=48% src="https://github.com/shalinikannan23/IMAGE-TRANSFORMATIONS/assets/118656529/009c6f79-a460-43fc-8096-fdadebb5412b">
+<img height=60% width=40% src="https://github.com/shalinikannan23/IMAGE-TRANSFORMATIONS/assets/118656529/6d477f87-b263-446a-8ea9-3db3f724edea">
+<img height=60% width=40% src="https://github.com/shalinikannan23/IMAGE-TRANSFORMATIONS/assets/118656529/009c6f79-a460-43fc-8096-fdadebb5412b">
 
 
 #### Reflecting Vertically
-<img height=15% width=48% src="https://github.com/shalinikannan23/IMAGE-TRANSFORMATIONS/assets/118656529/4c9fc26b-af4a-40ff-9fe7-93d705350566">
-<img height=15% width=48% src="https://github.com/shalinikannan23/IMAGE-TRANSFORMATIONS/assets/118656529/fd3dafaa-0dcb-45de-9d63-06a4587b38d4">
+<img height=60% width=40% src="https://github.com/shalinikannan23/IMAGE-TRANSFORMATIONS/assets/118656529/4c9fc26b-af4a-40ff-9fe7-93d705350566">
+<img height=60% width=40% src="https://github.com/shalinikannan23/IMAGE-TRANSFORMATIONS/assets/118656529/fd3dafaa-0dcb-45de-9d63-06a4587b38d4">
 
 
 #### Reflecting Horizontally & Vertically
-<img height=15% width=48% src="https://github.com/shalinikannan23/IMAGE-TRANSFORMATIONS/assets/118656529/be580f93-d376-4ac3-b105-cceb12f1b99f">
-
+<img height=60% width=40% src="https://github.com/shalinikannan23/IMAGE-TRANSFORMATIONS/assets/118656529/be580f93-d376-4ac3-b105-cceb12f1b99f">
 <img height=15% width=48% src="https://github.com/shalinikannan23/IMAGE-TRANSFORMATIONS/assets/118656529/8e42be40-4a88-4471-8fc8-898c6e6ae1f2">
 
 
 ### (v) Image Rotation
-<img height=15% width=48% src="https://github.com/shalinikannan23/IMAGE-TRANSFORMATIONS/assets/118656529/d2a9e0be-042b-49f6-a138-f501ed6d7728">
-
-
-### (vi) Image Cropping
+<img height=60% width=40% src="https://github.com/shalinikannan23/IMAGE-TRANSFORMATIONS/assets/118656529/d2a9e0be-042b-49f6-a138-f501ed6d7728">
 <img height=15% width=48% src="https://github.com/shalinikannan23/IMAGE-TRANSFORMATIONS/assets/118656529/e0cadb83-1b19-454f-8cec-ea531edec65a">
 
+### (vi) Image Cropping
+<img height=15% width=48% src="https://github.com/shalinikannan23/IMAGE-TRANSFORMATIONS/assets/118656529/4eacb52d-322d-42d2-a1cb-b40d4da038c1">
 <img height=15% width=48% src="https://github.com/shalinikannan23/IMAGE-TRANSFORMATIONS/assets/118656529/1d1320f8-282c-4975-9623-95278c1b696f">
 
 
